@@ -22,4 +22,83 @@ Done 5: https://anthropic.skilljar.com/introduction-to-model-context-protocol 2-
 Certificate of completion: https://anthropic.skilljar.com/introduction-to-model-context-protocol/297196
 
 ***
-ToDo: https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request
+Claude Certified Architect Exam Explained Before It Goes Public
+> https://www.youtube.com/watch?v=_2bZZw68l4Y
+
+Claude Certified Architect – Foundations Certification Exam Guide.pdf
+> intro: https://everpath-course-content.s3-accelerate.amazonaws.com/instructor%2F8lsy243ftffjjy1cx9lm3o2bw%2Fpublic%2F1773274827%2FClaude+Certified+Architect+%E2%80%93+Foundations+Certification+Exam+Guide.pdf
+> 6 scenarios
+> 5 domains
+> 30 subdomains
+> 12 questions
+> 4 exercises
+> 12-week study plan: https://claudecertifications.com/claude-certified-architect/study-guide
+> pre-test
+
+> 12-Week Study Plan for Exam Success
+A structured, week-by-week preparation plan designed to take you from fundamentals to exam-ready in 12 weeks, spending roughly 1 hour per day.
+- W01: Agentic Loops & Core API: Foundations · Domain 1.1
+- W02: Multi-Agent Orchestration: Foundations · Domain 1.2–1.3
+- W03: Hooks, Workflows & Sessions: Foundations · Domain 1.4–1.7
+- W04: Tool Design & MCP: Foundations · Domain 2.1–2.5
+- W05: Claude Code Configuration: Applied Knowledge · Domain 3.1–3.3
+- W06: Plan Mode, Iteration & CI/CD: Applied Knowledge · Domain 3.4–3.6
+- W07: Prompt Engineering & Structured Output: Applied Knowledge · Domain 4.1–4.3
+- W08: Validation, Batch & Multi-Pass: Applied Knowledge · Domain 4.4–4.6
+- W09: Context Management: Exam Prep · Domain 5.1–5.3
+- W10: Advanced Context & Provenance: Exam Prep · Domain 5.4–5.6
+- W11: Integration & Hands-On Exercises: Exam Prep · All Domains
+- W12: Final Exam Prep: Exam Prep · Review & Practice
+
+Can I practise claude-certified-architect pretest multiple times?
+> Yes
+> https://anthropic.skilljar.com/anthropic-certification-practice-exam/425721/scorm/9tk8iybcpyl9
+
+> 6 scenarios
+- Scenario 1: Customer Support Resolution Agent (target is 80%+ first-contact resolution while knowing when to escalate, (MCP) tools (get_customer, lookup_order, process_refund, escalate_to_human))
+- Scenario 2: Code Generation with Claude Code (refactoring, debugging, and documentation. custom slash commands, CLAUDE.md configurations, and understand when to use plan mode vs direct execution)
+- Scenario 3: Multi-Agent Research System (the system researches topics, agent delegates to specialized subagents)
+- Scenario 4: Developer Productivity with Claude (unfamiliar codebases, legacy systems.  built-in tools (Read, Write, Bash, Grep, Glob) and integrates with Model Context Protocol (MCP) servers)
+- Scenario 5: Claude Code for Continuous Integration (design prompts that provide actionable feedback and minimize false positives)
+- Scenario 6: Structured Data Extraction
+
+> 5 domains:
+- Domain 1: Agentic Architecture & Orchestration (27% of scored content)
+- Domain 2: Tool Design & MCP Integration (18% of scored content)
+Anthropic, PBC · Confidential Need to Know (NTK)
+- Domain 3: Claude Code Configuration & Workflows (20% of scored content)
+- Domain 4: Prompt Engineering & Structured Output (20% of scored content)
+- Domain 5: Context Management & Reliability (15% of scored content)
+
+> 30 subdomains:
+-- Task Statement 1.1: Design and implement agentic loops for autonomous task execution
+-- Task Statement 1.2: Orchestrate multi-agent systems with coordinator-subagent patterns
+-- Task Statement 1.3: Configure subagent invocation, context passing, and spawning
+-- Task Statement 1.4: Implement multi-step workflows with enforcement and handoff patterns
+-- Task Statement 1.5: Apply Agent SDK hooks for tool call interception and data normalization
+-- Task Statement 1.6: Design task decomposition strategies for complex workflows
+-- Task Statement 1.7: Manage session state, resumption, and forking
+-- Task Statement 2.1: Design effective tool interfaces with clear descriptions and boundaries
+-- Task Statement 2.2: Implement structured error responses for MCP tools
+-- Task Statement 2.3: Distribute tools appropriately across agents and configure tool choice
+-- Task Statement 2.4: Integrate MCP servers into Claude Code and agent workflows
+-- Task Statement 2.5: Select and apply built-in tools (Read, Write, Edit, Bash, Grep, Glob) effectively
+-- Task Statement 3.1: Configure CLAUDE.md files with appropriate hierarchy, scoping, and modular organization
+-- Task Statement 3.2: Create and configure custom slash commands and skills
+-- Task Statement 3.3: Apply path-specific rules for conditional convention loading
+-- Task Statement 3.4: Determine when to use plan mode vs direct execution
+-- Task Statement 3.5: Apply iterative refinement techniques for progressive improvement
+-- Task Statement 3.6: Integrate Claude Code into CI/CD pipelines
+-- Task Statement 4.1: Design prompts with explicit criteria to improve precision and reduce false positives
+-- Task Statement 4.2: Apply few-shot prompting to improve output consistency and quality
+-- Task Statement 4.3: Enforce structured output using tool use and JSON schemas
+-- Task Statement 4.4: Implement validation, retry, and feedback loops for extraction quality
+-- Task Statement 4.5: Design efficient batch processing strategies
+-- Task Statement 4.6: Design multi-instance and multi-pass review architectures
+-- Task Statement 5.1: Manage conversation context to preserve critical information across long interactions
+-- Task Statement 5.2: Design effective escalation and ambiguity resolution patterns
+-- Task Statement 5.3: Implement error propagation strategies across multi-agent systems
+-- Task Statement 5.4: Manage context effectively in large codebase exploration
+-- Task Statement 5.5: Design human review workflows and confidence calibration
+-- Task Statement 5.6: Preserve information provenance and handle uncertainty in multi-source synthesis
+
