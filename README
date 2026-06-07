@@ -69,7 +69,7 @@ Can I practise claude-certified-architect pretest multiple times?
 - Domain 5: Context Management & Reliability (15% of scored content)
 
 > 30 subdomains:
--v [6/6/2026] Task Statement 1.1: Design and implement agentic loops for autonomous task execution
+-v [6/6/2026 3h][6/7/2026 3h] Task Statement 1.1: Design and implement agentic loops for autonomous task execution
 -- Task Statement 1.2: Orchestrate multi-agent systems with coordinator-subagent patterns
 -- Task Statement 1.3: Configure subagent invocation, context passing, and spawning
 -- Task Statement 1.4: Implement multi-step workflows with enforcement and handoff patterns
