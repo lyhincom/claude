@@ -69,18 +69,18 @@ Can I practise claude-certified-architect pretest multiple times?
 - Domain 5: Context Management & Reliability (15% of scored content)
 
 > 30 subdomains:
--v [6/6/2026:3h][6/7/2026:3h] Task Statement 1.1: Design and implement agentic loops for autonomous task execution
--v [6/14/2026:3h] Task Statement 1.2: Orchestrate multi-agent systems with coordinator-subagent patterns
+-v w1 [6/6/2026:3h][6/7/2026:3h] Task Statement 1.1: Design and implement agentic loops for autonomous task execution
+-- Task Statement 1.2: Orchestrate multi-agent systems with coordinator-subagent patterns
 -- Task Statement 1.3: Configure subagent invocation, context passing, and spawning
 -- Task Statement 1.4: Implement multi-step workflows with enforcement and handoff patterns
 -- Task Statement 1.5: Apply Agent SDK hooks for tool call interception and data normalization
 -- Task Statement 1.6: Design task decomposition strategies for complex workflows
 -- Task Statement 1.7: Manage session state, resumption, and forking
--- Task Statement 2.1: Design effective tool interfaces with clear descriptions and boundaries
--- Task Statement 2.2: Implement structured error responses for MCP tools
+-v w3 [6/14/2026:3h] Task Statement 2.1: Design effective tool interfaces with clear descriptions and boundaries
+-v w3 Task Statement 2.2: Implement structured error responses for MCP tools
 -- Task Statement 2.3: Distribute tools appropriately across agents and configure tool choice
 -- Task Statement 2.4: Integrate MCP servers into Claude Code and agent workflows
--- Task Statement 2.5: Select and apply built-in tools (Read, Write, Edit, Bash, Grep, Glob) effectively
+-v w3 Task Statement 2.5: Select and apply built-in tools (Read, Write, Edit, Bash, Grep, Glob) effectively
 -- Task Statement 3.1: Configure CLAUDE.md files with appropriate hierarchy, scoping, and modular organization
 -- Task Statement 3.2: Create and configure custom slash commands and skills
 -- Task Statement 3.3: Apply path-specific rules for conditional convention loading
