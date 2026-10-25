@@ -107,5 +107,10 @@ Can I practise claude-certified-architect pretest multiple times?
 - Exercise 4: Design and Debug a Multi-Agent Research Pipeline
 
 ***
+Other References:
 [25 Oct 2026] Claude Techniques Diagram: https://github.com/lyhincom/claude/blob/main/Brij%20Kishore%20Pandey%20-%20AI%20architect.jpg
-[25 Oct 2026] https://github.com/mcp
+[25 Oct 2026] https://github.com/mcp and MCP examples:
+- Playwright MCP to enable browser access;
+- Figma MCP to visualize/adapt UI prototype;
+- draw.io MCP to draw diagrams;
+[25 Oct 2026] Bala Priya C on June 29, 2026: https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty
