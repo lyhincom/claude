@@ -119,4 +119,4 @@ Diagram: https://github.com/lyhincom/claude/blob/main/mlm-mcp-3-levels.webp
 
 2/6 Use XML prompts:
 [31 Oct 2026] Use XML prompts. Example: <task>Translate my text to Spanish</task><text>Explain how to perform a context-aware prompt</text>;
-[31 Oct 2026] https://context-engine.ai/ - By serving as a centralized context layer, it helps AI tools work faster, use fewer API calls, and drastically reduce LLM costs
+[31 Oct 2026] https://context-engine.ai/ - by serving as a centralized context layer, it helps AI tools work faster, use fewer API calls, and drastically reduce LLM costs;
