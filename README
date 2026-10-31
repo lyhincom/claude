@@ -107,7 +107,8 @@ Can I practise claude-certified-architect pretest multiple times?
 - Exercise 4: Design and Debug a Multi-Agent Research Pipeline
 
 ***
-Other References:
+AI high level facts, course:
+1/6 Use MCPs:
 [25 Oct 2026] Claude Techniques Diagram: https://github.com/lyhincom/claude/blob/main/Brij%20Kishore%20Pandey%20-%20AI%20architect.jpg
 [25 Oct 2026] https://github.com/mcp and MCP examples:
 - Playwright MCP to enable browser access;
@@ -115,3 +116,7 @@ Other References:
 - draw.io MCP to draw diagrams;
 [25 Oct 2026] Bala Priya C on June 29, 2026: https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty
 Diagram: https://github.com/lyhincom/claude/blob/main/mlm-mcp-3-levels.webp
+
+2/6 Use XML prompts:
+[31 Oct 2026] Use XML prompts. Example: <task>Translate my text to Spanish</task><text>Explain how to perform a context-aware prompt</text>;
+[31 Oct 2026] https://context-engine.ai/ - By serving as a centralized context layer, it helps AI tools work faster, use fewer API calls, and drastically reduce LLM costs
