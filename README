@@ -126,7 +126,7 @@ output: Opus 5.5 | in 34 | out 7.3k | cache r 1.1M / w 72.8k | $1.23;
 [31 Oct 2026] do not only improve the code. Improve the prompts that drive the coding agent;
 [1 Nov 2026] meta-prompts (improving promt in Google Gemini without context) to have prompts;
 [1 Nov 2026] meta-prompts https://notebook.google.com/ - available for all employess;
-[1 Nov 2026] Product Requirements Document: https://github.com/snarktank/ai-dev-tasks.git;
+[1 Nov 2026] Product Requirements Document: https://github.com/snarktank/ai-dev-tasks.git ("Create a PRD using @ai-dev-tasks/create-prd.md for the following task");
 
 1. The Right Way to "Improve the Prompt" Today
 Instead of manually typing long instructions into a chat window every time, top engineers use persistent, structural engineering to drive the agent:
