@@ -123,6 +123,7 @@ Diagram: https://github.com/lyhincom/claude/blob/main/mlm-mcp-3-levels.webp
 [31 Oct 2026] Claude Enable input and output token consumption in the agent;
 output: Opus 5.5 | in 34 | out 7.3k | cache r 1.1M / w 72.8k | $1.23;
 
+2/6 Use Meta-prompts and PRDs:
 [31 Oct 2026] do not only improve the code. Improve the prompts that drive the coding agent;
 [1 Nov 2026] meta-prompts (improving promt in Google Gemini without context) to have prompts;
 [1 Nov 2026] meta-prompts https://notebook.google.com/ - available for all employess;
