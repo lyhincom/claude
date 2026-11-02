@@ -113,9 +113,12 @@ AI high level facts, course:
 [25 Oct 2026] https://github.com/mcp and MCP examples:
 - Playwright MCP to enable browser access;
 - Figma MCP to visualize/adapt UI prototype;
-- draw.io MCP to draw diagrams;
+- draw.io MCP to draw diagrams (~20 secs slow, see Note*1);
 [25 Oct 2026] Bala Priya C on June 29, 2026: https://machinelearningmastery.com/model-context-protocol-explained-in-3-levels-of-difficulty
 Diagram: https://github.com/lyhincom/claude/blob/main/mlm-mcp-3-levels.webp
+
+[Note*1] Once per browser session: open the file, and if draw.io asks, you authorize Google Drive in the Playwright window. Then I add the editor hook.
+Each image, 3 calls: copy the file, drop it on the canvas, then place it and wait for the save. That’s the 17.6-second run
 
 2/6 Use XML prompts:
 [31 Oct 2026] Use XML prompts. Example: <task>Translate my text to Spanish</task><text>Explain how to perform a context-aware prompt</text>;
